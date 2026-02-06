@@ -1,0 +1,34 @@
+{
+  "itemCode": "headphones-001",
+  "itemName": "Premium Wireless Headphones",
+  "itemCaption": "Experience crystal-clear sound with our premium wireless headphones. Features 40-hour battery life, active noise cancellation, and comfortable over-ear design.",
+  "shopCode": "audiotech-rakuten",
+  "shopName": "AudioTech Official Store",
+  "genreId": "100051",
+  "itemPrice": 29800,
+  "taxFlag": 1,
+  "postageFlag": 0,
+  "creditCardFlag": 1,
+  "shopOfTheYearFlag": 0,
+  "shipOverseasFlag": 0,
+  "asurakuFlag": 0,
+  "pointRate": 1,
+  "pointRateStartTime": "",
+  "pointRateEndTime": "",
+  "reviewCount": 128,
+  "reviewAverage": 4.5,
+  "availability": 1,
+  "mediumImageUrls": [
+    "https://thumbnail.image.rakuten.co.jp/@0_mall/audiotech/cabinet/headphones/front.jpg",
+    "https://thumbnail.image.rakuten.co.jp/@0_mall/audiotech/cabinet/headphones/side.jpg",
+    "https://thumbnail.image.rakuten.co.jp/@0_mall/audiotech/cabinet/headphones/case.jpg"
+  ],
+  "smallImageUrls": [
+    "https://thumbnail.image.rakuten.co.jp/@0_mall/audiotech/cabinet/headphones/front_s.jpg",
+    "https://thumbnail.image.rakuten.co.jp/@0_mall/audiotech/cabinet/headphones/side_s.jpg",
+    "https://thumbnail.image.rakuten.co.jp/@0_mall/audiotech/cabinet/headphones/case_s.jpg"
+  ],
+  "itemUrl": "https://item.rakuten.co.jp/audiotech/headphones-001/",
+  "shopUrl": "https://www.rakuten.co.jp/audiotech/",
+  "tagIds": [1001, 1002, 1003]
+}
