@@ -27,7 +27,7 @@
     "japan"
   ],
   "author": "",
-  "license": "AGPL-3.0-only",
+  "license": "MIT",
   "engines": {
     "node": ">=20.0.0"
   },
